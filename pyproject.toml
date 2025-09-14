@@ -16,6 +16,7 @@ dependencies = [
 [project.optional-dependencies]
 dev = [
     "pytest",
+    "pytest-qt",
     "black",
     "ruff",
     "pre-commit",

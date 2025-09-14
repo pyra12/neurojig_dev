@@ -15,3 +15,10 @@ Skeleton of a Python application for ergonomic harness layout design.
 1. Install: `pip install -e .[dev]`
 2. Set up pre-commit: `pre-commit install`
 3. Run tests: `pytest`
+
+## Running the App
+After installation you can launch the graphical interface with:
+
+```
+python -m NeuroJig.app
+```
